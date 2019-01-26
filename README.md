@@ -1,6 +1,6 @@
 # AngularCrashTodolist
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
+This is end project of Angular Crash Course by Traversy media.
 
 ## Development server
 
